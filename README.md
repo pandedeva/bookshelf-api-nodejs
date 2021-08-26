@@ -1,4 +1,4 @@
 # bookshelf-api-nodejs
-api bookshelf dicoding.
+bookshelf api dicoding.
 
 hampir loncat <3
